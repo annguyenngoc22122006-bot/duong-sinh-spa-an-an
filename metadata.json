@@ -1,0 +1,6 @@
+{
+  "name": "Dưỡng Sinh An An",
+  "description": "Trung tâm Dưỡng sinh Đông y An An - Giải pháp trị liệu cổ vai gáy, gội đầu dưỡng sinh và thư giãn toàn diện cho người bận rộn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
